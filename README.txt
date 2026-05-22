@@ -29,8 +29,8 @@ CÓMO ABRIR
 TECNOLOGÍAS USADAS
 ------------------
 
-- HTML5
-- CSS3 (con diseño responsivo)
+- HTML
+- CSS (con diseño responsivo)
 - JavaScript (validación de formulario, menú móvil, etc.)
 - Font Awesome (para los iconos)
 - Google Fonts (Poppins)
